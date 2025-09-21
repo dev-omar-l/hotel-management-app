@@ -5,4 +5,6 @@ Academic Project: .NET Application for Hotel Management
 • Introduction: .NET-based hotel management application with features including: a login system; room reservation; staff and customer management; and seamless payment processing.
 
 • Key Features:
--To be written-
+⌛To be written.
+
+-11/10/2024
